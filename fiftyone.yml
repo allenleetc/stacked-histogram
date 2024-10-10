@@ -1,0 +1,8 @@
+name: "stacked_histogram"
+description: Test stacked hist
+version: "0.0.1"
+fiftyone:
+  version: ">=0.25"
+url: 
+panels:
+  - example_stacked_histogram
